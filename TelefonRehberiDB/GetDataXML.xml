@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ContactRecords>
+  <Record>
+    <ID>d45f4be1-786f-4766-a068-e48c677e0037</ID>
+    <Name>Hasan</Name>
+    <Surname>Kale</Surname>
+    <Phone1>05252123659</Phone1>
+    <Phone2>05345266389</Phone2>
+    <Phone3>023567</Phone3>
+    <Email>hasan@gmail.com</Email>
+    <Web>www.hasan.com</Web>
+    <Adress>Ankara</Adress>
+    <Explain>Mühendis</Explain>
+  </Record>
+  <Record>
+    <ID>0ccc07d2-11af-4f2d-a1dc-403eb415d5ae</ID>
+    <Name>Rakif</Name>
+    <Surname>Candan</Surname>
+    <Phone1>05656</Phone1>
+    <Phone2>245</Phone2>
+    <Phone3>8563</Phone3>
+    <Email>rakif@gmail.com</Email>
+    <Web>www.rakif.com</Web>
+    <Adress>istanbul</Adress>
+    <Explain>imam</Explain>
+  </Record>
+  <Record>
+    <ID>7269b651-f94c-4ba8-9d57-fefff07ed1a1</ID>
+    <Name>Kadir</Name>
+    <Surname>Kılınç</Surname>
+    <Phone1>123</Phone1>
+    <Phone2></Phone2>
+    <Phone3></Phone3>
+    <Email></Email>
+    <Web></Web>
+    <Adress></Adress>
+    <Explain></Explain>
+  </Record>
+</ContactRecords>

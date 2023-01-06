@@ -1,0 +1,11 @@
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\DataBase.dll
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\DataBase.pdb
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\Entities.dll
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\Entities.pdb
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\obj\Debug\DataBase.dll
+C:\Users\hasan\Desktop\YazılımDersi\Projeler\Telefon Rehberi\DataBase\obj\Debug\DataBase.pdb
